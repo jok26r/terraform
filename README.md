@@ -1,0 +1,1 @@
+The purposes of having this repo is storing experience with terraform.
